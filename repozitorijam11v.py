@@ -1,7 +1,7 @@
 #fails repozitorijam
 print(5+6)
 #Tatjana Grencione
-print(5**4)
+print(5**4-6)
 #1)Auniòð Rûdolfs
 
 #2)Âdams Aleksis Henrijs
