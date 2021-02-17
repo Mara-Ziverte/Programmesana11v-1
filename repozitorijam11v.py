@@ -27,4 +27,4 @@ print(5**4-6)
 #12)Samsonova Anna
 
 #13)Zîverte Mâra Anna
-
+print(5+6)
